@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/joe801/Shortly/edit/main/README.md)
+- Solution URL: [Code](https://github.com/joe801/Shortly)
 - Live Site URL: [live](https://shortly.joecrypt.repl.co/)
 
 ## My process
